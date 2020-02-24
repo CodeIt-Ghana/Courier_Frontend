@@ -1,4 +1,4 @@
-# partner.onango.com
+# Orange Project
 
 ## Project setup
 ```
